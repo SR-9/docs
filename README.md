@@ -1,4 +1,4 @@
 # docs
 
 
-[buyeoapp://home](buyeoapp://home)
+Thử cách này: <buyeoapp://home>
