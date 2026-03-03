@@ -1,5 +1,1 @@
-# docs
-
-
-Thử cách này: <buyeoapp://home>
-Hoặc cách này: [buyeoapp://home](buyeoapp://home/) (thêm dấu / ở cuối)
+<a href="buyeoapp://home">Mở ứng dụng Buyeo</a>
